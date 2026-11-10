@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/palprakruti-max/Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palprakruti-max/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1260-shift-2d-grid](https://github.com/palprakruti-max/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/palprakruti-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palprakruti-max/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/palprakruti-max/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
