@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/palprakruti-max/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/palprakruti-max/Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palprakruti-max/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1019-next-greater-node-in-linked-list](https://github.com/palprakruti-max/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/palprakruti-max/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/palprakruti-max/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
